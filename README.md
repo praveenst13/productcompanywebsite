@@ -563,15 +563,15 @@ background-size: cover;
   </body>
 </html>
 ```
-
-
-
 ## OUTPUT:
-
 ### Home Page:
-
-
-
+![iu](home.png)
+### Contact Page:
+![output](contactus.png)
+### People:
+![dd](people.png)
+### Product :
+![dd](product.png)
 ## Result:
 
 Thus a website is designed for the software product company and the HTML,CSS code are validated.
