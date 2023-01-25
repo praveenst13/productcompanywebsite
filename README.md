@@ -41,6 +41,7 @@ Home.html:
 <html lang="en">
   <head>
     <title>Lexical</title>
+     <link rel="stylesheet" type="text/css" href="../html/css.css">
   </head>
   <body>   
     <div class="container">
@@ -84,6 +85,7 @@ contactus.html:
 <html lang="en">
   <head>
     <title>LEXICAL</title>
+     <link rel="stylesheet" type="text/css" href="../html/css.css">
   </head>
   <body>
     <div class="container">
@@ -127,6 +129,7 @@ People.html:
 <html lang="en">
   <head>
     <title>LEXICAL</title>
+     <link rel="stylesheet" type="text/css" href="../html/css.css">
   </head>
   <body>
     <div class="container">
@@ -170,6 +173,7 @@ Product.html
 <html lang="en">
   <head>
     <title>LEXICAL</title>
+     <link rel="stylesheet" type="text/css" href="../html/css.css">
   </head>
   <body>
     <div class="container">
